@@ -1,11 +1,9 @@
 # BMI5330_HIV
 Final Project for BMI 5330
 Purpose
-In this notebook, there are two goals. 
 
-We will look at a studys that looked at 14 subject's HIV sequences at two timepoints. With these sequences, we will construct a phylogenetic tree and compute similarity scores between the two timepoint RNA sequences.
-We will explore some conservation patterns of the HORMAD2 gene. This gene is has been shown to have many integration sites that the Human Immunodeficiency Virus (HIV) targets when integrating into the human DNA. Towards the end of the notebook, we will look at DNase signals as well.
-Papers Used as Inspiration for this Notebook
+
+Papers Used as Inspiration for this repo
 Abdissa, A., Yilma, D., Fonager, J., Audelin, A. M., Christensen, L. H., Olsen, M. F., … Andersen, A. B. (2014). Drug resistance in HIV patients with virological failure or slow virological response to antiretroviral therapy in Ethiopia. BMC Infectious Diseases, 14(1). doi:10.1186/1471-2334-14-181
 
 Maldarelli, F., Wu, X., Su, L., Simonetti, F., Wells, D., Shao, W., … Hughes, S. (2016). B-108 Specific HIV integration sites are linked to clonal expansion and persistence of infected cells. JAIDS Journal of Acquired Immune Deficiency Syndromes, 71, 44. doi:10.1097/01.qai.0000479721.09749.2d
