@@ -1,14 +1,14 @@
 # BMI5330_HIV
-Final Project for BMI 5330
+## Final Project for BMI 5330
 
 For this work, I investiaged the human immunodeficiency virus (HIV) that affects and kills millions of people worldwide. This repo contains the data that is necessary to run the Jupyter notebook. Please see below for more details on the inspiration for these results.
 
-Papers Used as Inspiration for this repo <br>
+### Papers Used as Inspiration for this repo <br>
 Abdissa, A., Yilma, D., Fonager, J., Audelin, A. M., Christensen, L. H., Olsen, M. F., … Andersen, A. B. (2014). Drug resistance in HIV patients with virological failure or slow virological response to antiretroviral therapy in Ethiopia. BMC Infectious Diseases, 14(1). doi:10.1186/1471-2334-14-181
 
 Maldarelli, F., Wu, X., Su, L., Simonetti, F., Wells, D., Shao, W., … Hughes, S. (2016). B-108 Specific HIV integration sites are linked to clonal expansion and persistence of infected cells. JAIDS Journal of Acquired Immune Deficiency Syndromes, 71, 44. doi:10.1097/01.qai.0000479721.09749.2d
 
-Data <br>
+### Data <br>
 HIV RNA Data 
 https://www.hiv.lanl.gov/components/sequence/HIV/search/search.comp?submit=Retrieve+selected+sets&ipsearch_selected=0&value+patient+pat_num_timepoints+4=*&value+PUBlication+PUB_pubmedEntry+4=*&value+publication+pub_articletitle+1=%21%3D+DirectwholeSubmission&ipsearch=e8ac5ada&action=search
 
@@ -29,16 +29,16 @@ EMBL-EBI Phylo Tool
 https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/
 <br>
 
-Python Library Requirements <br>
-Pandas
-Seaborn
-Matplotlib
-Numpy
-Scipy
-Biopython
-ete3
+### Python Library Requirements <br>
+Pandas <br>
+Seaborn <br>
+Matplotlib <br>
+Numpy <br>
+Scipy <br>
+Biopython <br>
+ete3 <br>
 
-Contact
+### Contact
 Please contact Danilo Pena (danilo.a.pena@uth.tmc.edu) for any questions or concerns.
 
 Thank you for passing by.
