@@ -37,6 +37,9 @@ Scipy <br>
 Biopython <br>
 ete3 <br>
 
+### Notes <br>
+Please note that the conservation data is not available on Github because the file was too large. Please download onto your own computer!
+
 ### Contact
 Please contact Danilo Pena (danilo.a.pena@uth.tmc.edu) for any questions or concerns.
 
